@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+       <class name="com.automationTest.tests.LoginTest"/>
+       <class name="com.automationTest.tests.AddReviewForProductTest"/>
+        <class name="com.automationTest.tests.AddToWishListProductTest"/>
+       <class name="com.automationTest.tests.BlankInputsLoginUserErrorTest"/>
+       <class name="com.automationTest.tests.BlankInputsOnRegisterUserMandatoryFieldsTest"/>
+       <class name="com.automationTest.tests.CatchExistingRegisterUserErrorTest"/>
+       <class name="com.automationTest.tests.ContactUsForEnquiryTest"/>
+       <class name="com.automationTest.tests.EnterInvalidEmailForRegisterUserTest"/>
+       <class name="com.automationTest.tests.EnterInvalidPasswordForRegisterUserTest"/>
+       <class name="com.automationTest.tests.JewelryTest"/>      
+       <class name="com.automationTest.tests.OrderBookTest"/>
+       <class name="com.automationTest.tests.ProductAddRemoveFromCartTest"/>
+       <class name="com.automationTest.tests.RegisterTest"/>
+       <class name="com.automationTest.tests.SendGiftCardToFriendByEmailTest"/>
+       <class name="com.automationTest.tests.VendorAccountTest"/> 
+   
+  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+

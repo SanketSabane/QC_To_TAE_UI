@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TestFramework"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="com.framework.base.initializeDriver"/>
+        <listEntry value="com.framework.operation.TestOperationFactory"/>
+        <listEntry value="com.framework.base.browserParams"/>
+        <listEntry value="com.framework.base.SystemConfigurations"/>
+        <listEntry value="com.framework.base.PropertyLoader"/>
+        <listEntry value="com.framework.base.Loggers"/>
+        <listEntry value="com.framework.base.Utility"/>
+        <listEntry value="com.framework.exceptions.DriverNotInitializedException"/>
+        <listEntry value="com.framework.dataProvider.DataProviderJsonImpl"/>
+        <listEntry value="com.framework.dataProvider.ProvideData"/>
+        <listEntry value="com.framework.exceptions.NoDataAvailableInFile"/>
+        <listEntry value="com.framework.operation.IOperations"/>
+        <listEntry value="com.framework.base.JSONUtils"/>
+        <listEntry value="com.framework.dataProvider.DataSet"/>
+        <listEntry value="com.framework.test.BaseTest"/>
+        <listEntry value="com.framework.base.JSONHelper"/>
+        <listEntry value="com.test.automation.Driver"/>
+        <listEntry value="com.framework.page.TestPageFactory"/>
+        <listEntry value="com.framework.page.BasePage"/>
+        <listEntry value="com.framework.base.FileUtils"/>
+        <listEntry value="com.framework.page.TestPage"/>
+        <listEntry value="com.framework.dataProvider.GenericDataProvider"/>
+        <listEntry value="com.framework.base.PropertyManager"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

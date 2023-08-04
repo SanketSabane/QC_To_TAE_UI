@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LoginUserBlankInputsPage.java&apos; to &apos;TestProject/src/main/java/com.automationTest.pages&apos;&#x0D;&#x0A;- Original project: &apos;TestProject&apos;&#x0D;&#x0A;- Destination element: &apos;TestProject/src/main/java/com.automationTest.pages&apos;&#x0D;&#x0A;- Original element: &apos;com.automationTest.pages.LoginUserBlankInputsPage.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.automationTest.pages" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.automationTest.pages{LoginUserBlankInputsPage.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1689173738086" units="1" version="1.0"/>
+</session>
